@@ -60,9 +60,6 @@
   <!-- meta-spdxscanner - support for fossology -->
   <project name="dl9pf/meta-spdxscanner" path="external/meta-spdxscanner" remote="github" revision="2dd8b88071268a5922696db36a9ba8be96a9e0ef" upstream="master"/>
 
-  <!-- clang support -->
-  <project name="kraj/meta-clang" path="external/meta-clang" remote="github" revision="22f0b0eaad454279c604a83dba53be6e6efb1a06" upstream="thud"/>
-
   <!-- BSPs -->
 
   <!-- Renesas Gen3 specific things -->
