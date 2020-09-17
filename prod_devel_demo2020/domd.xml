@@ -67,7 +67,7 @@
 
   <!-- Renesas Gen3 specific things -->
   <project name="AGL/meta-renesas-rcar-gen3" path="bsp/meta-renesas-rcar-gen3" />
-  <project name="CogentEmbedded/meta-rcar" path="meta-rcar" remote="github" revision="e9bf7907fcf1f3013705de10a37b7561f6660e3c" upstream="thud-v3.21.0" />
+  <project name="CogentEmbedded/meta-rcar" path="bsp/meta-rcar" remote="github" revision="e9bf7907fcf1f3013705de10a37b7561f6660e3c" upstream="thud-v3.21.0" />
 
   <!-- MinnowBoard MAX specific things -->
   <project name="meta-intel" path="bsp/meta-intel" remote="yocto" revision="a930f946b915624dcc02358725d235b3224fb61b" upstream="thud"/>
