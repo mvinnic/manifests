@@ -66,6 +66,7 @@
   <!-- BSPs -->
 
   <!-- Renesas Gen3 specific things -->
+  <project name="AGL/meta-renesas-rcar-gen3" path="bsp/meta-renesas-rcar-gen3" />
   <project name="renesas-rcar/meta-renesas" path="meta-renesas" upstream="thud-dev" remote="github" revision="14fe2b63e6c580bd48446317a9430e6f035a5895" />
   <project name="CogentEmbedded/meta-rcar" path="bsp/meta-rcar" remote="github" revision="e9bf7907fcf1f3013705de10a37b7561f6660e3c" upstream="thud-v3.21.0" />
 
